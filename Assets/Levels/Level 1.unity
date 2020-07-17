@@ -149,6 +149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 018705b9f3e32074689d1e8a8db3d54b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LevelLoadDelay: 2
+  LevelExitSlowMoFactor: 0.2
 --- !u!61 &816689391
 BoxCollider2D:
   m_ObjectHideFlags: 0
